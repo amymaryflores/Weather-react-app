@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import "./Weather.css";
 import axios from "axios";
-import WeatherInfo from "./WeatherInfo.js";
+import WeatherInfo from "./WeatherInfo";
 import { RotatingLines } from "react-loader-spinner";
-import WeatherForecast from "./Forecast.js";
-import GetCurrentLocation from "./GetCurrentLocation.js";
+import WeatherForecast from "./Forecast";
+import GetCurrentLocation from "./GetCurrentLocation";
 
 export default function Weather(props) {
   const [city, setCity] = useState(props.defaultCity);
