@@ -1,5 +1,5 @@
 import "./App.css";
-import Weather from "./Weather";
+import Weather from "./weather";
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
           </a>{" "}
           by{" "}
           <a
-            href="https://agitated-yalow-146329.netlify.app"
+            href="https://brave-einstein-7d18c1.netlify.app"
             alt=""
             target="_blank"
             rel="noreferrer"
