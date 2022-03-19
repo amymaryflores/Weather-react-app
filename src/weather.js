@@ -31,6 +31,7 @@ export default function Weather(props) {
   function handleCityChange(event) {
     setCity(event.target.value);
   }
+  
   function search() {
     const apiKey = "4183825061e3f2c7f9f69ca47cf5ddf6";
     let apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=imperial`;
