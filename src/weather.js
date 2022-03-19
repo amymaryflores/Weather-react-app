@@ -3,7 +3,7 @@ import "./Weather.css";
 import axios from "axios";
 import WeatherInfo from "./WeatherInfo.js";
 import { RotatingLines } from "react-loader-spinner";
-import WeatherForecast from "./WeatherForecast.js";
+import WeatherForecast from "./Forecast.js";
 import GetCurrentLocation from "./GetCurrentLocation.js";
 
 export default function Weather(props) {

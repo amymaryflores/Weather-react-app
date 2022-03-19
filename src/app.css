@@ -1,0 +1,16 @@
+.App {
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: "Oxygen", sans-serif;
+  }
+  
+  
+  .App footer {
+    margin: 10px 0;
+    font-size: 11px;
+    color: #dbd8e3;
+  }
+  
+  .App a {
+    color: #a3f7bf;
+  }
