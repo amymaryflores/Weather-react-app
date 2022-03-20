@@ -14,7 +14,7 @@ function App() {
             href="https://github.com/amymaryflores/Weather-react-app"
             alt=""
             target="_blank"
-            rel="noreferrer"
+           rel="noopener noreferrer"
           >
             Open sourced code
           </a>{" "}
@@ -23,7 +23,7 @@ function App() {
             href="https://brave-einstein-7d18c1.netlify.app"
             alt=""
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
             
           >Amy Flores
             </a>
