@@ -1,5 +1,16 @@
+import React from "react";
 import "./app.css";
+import Date from "./Date";
+import Forecast from "./Forecast";
+import ForecastDay from "./ForecastDay";
+import GetCurrentLocation from "./GetCurrentLocation";
+import index from "./index"
+import Temperature from "./Temperature";
 import Weather from "./weather";
+import WeatherIcon from "./WeatherIcon";
+import WeatherInfo from "./WeatherInfo";
+
+
 
 function App() {
   return (
