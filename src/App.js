@@ -32,9 +32,10 @@ function App() {
             alt=""
             target="_blank"
             rel="noreferrer"
-          >
+            
+          >Amy Flores
             </a>
-            Amy Flores
+            
           
         </footer>
       </div>
