@@ -33,8 +33,9 @@ function App() {
             target="_blank"
             rel="noreferrer"
           >
+            </a>
             Amy Flores
-          </a>
+          
         </footer>
       </div>
     </div>
